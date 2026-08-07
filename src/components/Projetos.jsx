@@ -1,21 +1,21 @@
 const projetos = [
   {
     title: "Blog de Programação",
-    description: "Uma plataforma focada em ensinar conceitos básicos para iniciantes.",
+    description: "Este projeto foi desenvolvido como um blog educativo com foco em iniciantes, reunindo conteúdos introdutórios de programação em um formato simples de navegar.",
     techs: ["HTML", "JS", "TailwindCSS"],
     image: "./programacao-blog.png",
     link: "https://github.com/LokiiiGo/programacao-blog",
   },
   {
     title: "Simple Calculator",
-    description: "Uma calculadora simples que oferece uma interface limpa e funcional para operações matemáticas básicas.",
+    description: "Uma calculadora web que oferece uma interface funcional para operações matemáticas básicas e UI responsiva.",
     techs: ["NextJS", "TailwindCSS"],
     image: "./calculadora-simples.png",
     link: "https://github.com/LokiiiGo/simple-calculator",
   },
   {
     title: "Stokki Life",
-    description: "Gerenciamento de estoque para pequenos negócios, com funcionalidades de cadastro de produtos, controle de estoque e geração de relatórios.",
+    description: "Software para microempreendimentos com produtos em pó (shakes e chás) em controle de estoque, validade e reposição, com dados em tempo real.",
     techs: ["Laravel", "TailwindCSS", "MySQL"],
     image: "./stokki-life.png",
     link: "https://github.com/LokiiiGo/stokki-life",
@@ -30,8 +30,9 @@ const projetos = [
 ]
 
 const ExternalLinkIcon = ({ className }) => (
-  <svg className={className} fill="none" stroke="currentColor" viewBox="0 0 24 24">
-    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-box-arrow-up-right" viewBox="0 0 16 16">
+    <path fill-rule="evenodd" d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5" />
+    <path fill-rule="evenodd" d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0z" />
   </svg>
 )
 
