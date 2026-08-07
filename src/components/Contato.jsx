@@ -56,8 +56,7 @@ function Contato() {
           Vamos conversar?
         </h2>
         <p className="text-base sm:text-lg md:text-xl lg:text-2xl text-zinc-100 mb-8 sm:mb-10 max-w-2xl mx-auto text-pretty">
-          Estou aberto a novos projetos e colaborações. Entre em contato comigo através das redes
-          sociais abaixo.
+         Entre em contato comigo através das redes sociais abaixo.
         </p>
 
         <div className="flex flex-col sm:flex-row justify-center gap-3 sm:gap-4">
