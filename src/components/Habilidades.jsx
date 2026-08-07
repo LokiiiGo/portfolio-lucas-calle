@@ -121,7 +121,7 @@ function Habilidades() {
             return (
               <div
                 key={hab.title}
-                className={`bg-zinc-950 border border-zinc-800 p-5 sm:p-6 rounded-xl flex flex-col items-center text-center transition-colors ${colors.border}`}
+                className={`bg-zinc-950 border border-zinc-800 p-5 sm:p-6 flex flex-col items-center text-center transition-colors ${colors.border}`}
               >
                 <div className={`${colors.bg} p-3 sm:p-4 rounded-full mb-3 sm:mb-4 ${colors.text}`}>
                   {hab.icon}
