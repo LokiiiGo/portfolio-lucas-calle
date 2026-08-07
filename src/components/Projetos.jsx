@@ -49,7 +49,7 @@ function Projetos() {
           {projetos.map((projeto) => (
             <article
               key={projeto.title}
-              className="bg-zinc-950 border border-zinc-800 rounded-2xl overflow-hidden transition-all duration-300 shadow-xl"
+              className="bg-zinc-950 border border-zinc-800 overflow-hidden transition-all duration-300 shadow-xl"
             >
               <div
                 className={`flex flex-col ${projetos.indexOf(projeto) % 2 === 0 ? "lg:flex-row" : "lg:flex-row-reverse"}`}
