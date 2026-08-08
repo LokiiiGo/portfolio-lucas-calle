@@ -96,9 +96,9 @@ function Habilidades() {
 
         <article className="bg-zinc-950 border border-zinc-700/30 text-left sm:text-justify p-6 sm:p-8 max-w-3xl shadow-xl">
           <p className="text-base sm:text-lg md:text-xl leading-relaxed text-zinc-300">
-            Sou freelancer web com foco em {""}
-            <span className="text-white font-semibold">front-end</span> na criação de interfaces
-            modernas, responsivas e orientadas a experiência do usuário.
+            Sou desenvolvedor freelancer <span className="text-white font-semibold">front-end</span> {""}
+             em desenvolvimento na criação de interfaces modernas e responsivas com foco em experiência
+            do usuário (UI/UX).
           </p>
           <p className="text-base sm:text-lg md:text-xl leading-relaxed text-zinc-300 mt-4">
             Desenvolvi uma API com operações CRUD para gerenciamento de estoque e assinaturas digitais, 
