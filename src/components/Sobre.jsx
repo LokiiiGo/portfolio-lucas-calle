@@ -8,7 +8,7 @@ function Sobre() {
         Lucas Bruno Calle Chambi
       </h1>
       <p className="text-lg sm:text-xl md:text-2xl text-white font-medium">
-        Desenvolvedor Freelancer Front-End
+        Desenvolvedor Front-End Freelancer
       </p>
     </section>
   )
