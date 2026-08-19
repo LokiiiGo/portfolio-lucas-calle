@@ -3,15 +3,15 @@ const projetos = [
     title: "Blog de Programação",
     description: "Este projeto foi desenvolvido como um blog educativo com foco em iniciantes, reunindo conteúdos introdutórios de programação em um formato simples de navegar.",
     techs: ["HTML", "JS", "TailwindCSS"],
-    image: "./programacao-blog.png",
-    link: "https://github.com/LokiiiGo/programacao-blog",
+    image: "./blog-de-programacao.png",
+    link: "https://github.com/LokiiiGo/blog-de-programacao",
   },
   {
     title: "Simple Calculator",
     description: "Uma calculadora web que oferece uma interface funcional para operações matemáticas básicas e UI responsiva.",
     techs: ["NextJS", "TailwindCSS"],
     image: "./calculadora-simples.png",
-    link: "https://github.com/LokiiiGo/simple-calculator",
+    link: "https://github.com/LokiiiGo/math-calculator",
   },
   {
     title: "Stokki Life",
