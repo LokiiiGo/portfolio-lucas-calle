@@ -56,15 +56,3 @@ npm run dev
 ```
 
 3. Abra o endereço exibido no terminal (normalmente `http://localhost:5173`).
-
-## Como gerar build
-
-```bash
-npm run build
-```
-
-## Preview do build
-
-```bash
-npm run preview
-```
